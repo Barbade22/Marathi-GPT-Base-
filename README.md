@@ -3,18 +3,17 @@
 This repository contains a Marathi GPT model designed to perform text generation and autocomplete tasks for the Marathi language. The model is based on the GPT architecture and has been trained on a sample dataset to understand and generate fluent Marathi text.  
 
 ## Files in the Repository  
-
 ### 1. `Marathi_GPT.py`  
 This file contains the complete training code for the Marathi GPT model. It includes:  
 - Data preprocessing steps for Marathi text.  
 - Implementation of the GPT architecture using a deep learning framework.  
-- Training loop, optimizer configuration, and model saving for generating high-quality text.  
+- Training loop, optimizer configuration, and model saving for generating high-quality text. 
 
 ### 2. `asker.py`  
 This file allows you to interact with the trained model. It includes:  
 - Code to load the trained Marathi GPT model.  
 - Functionality to input partial text and receive generated text completions in Marathi.  
-
+- Needs Trained Weights https://drive.google.com/file/d/1eaKKawpUeXeFZCGK8Vvim3TG4QtQ6axx/view?usp=drive_link
 ### 3. `mastered.txt`  
 This file contains the example dataset used to train the model. It includes:  
 - Marathi text samples for training.  
