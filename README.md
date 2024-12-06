@@ -1,5 +1,5 @@
 # GPT Model for Marathi Language (10m) 
-
+# Character level
 This repository contains a Marathi GPT model designed to perform text generation and autocomplete tasks for the Marathi language. The model is based on the GPT architecture and has been trained on a sample dataset to understand and generate fluent Marathi text.  
 
 ## Files in the Repository  
